@@ -8,7 +8,6 @@ Documentation covering the setup and troubleshooting of a Samba shared folder on
 ## Setup Overview
 
 - **Device:** Raspberry Pi 5 (4GB RAM)
-- **OS:** Raspberry Pi OS Lite (Bookworm)
 - **Client Device:** Mac
 - **Network:** Home Wi-Fi (5GHz)
 - **Access Method:** Samba (SMB) shared folder from macOS Finder
@@ -106,3 +105,13 @@ smb://<raspberry-pi-ip-address>
 
 - **Username:** your Raspberry Pi username
 - **Password:** the one set with `smbpasswd`
+
+---
+
+## Key Learnings
+
+- Samba uses its own **authentication layer**, separate from system login.
+- macOS “Registered User” login requires **exact match** with the `smbpasswd` user.
+- Finder often caches bad attempts — use `Cmd + K` for a fresh mount.
+- Permission errors are often due to missing `chmod` or misconfigured `smb.conf`.
+- Samba restarts are essential after making any config changes.
