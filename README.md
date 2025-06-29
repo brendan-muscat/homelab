@@ -1,1 +1,1 @@
-# homelab
+Currently building a homelab using Raspberry Pi and Docker to self-host services and get hands-on with Linux. Planning to expand into hardware by adding a router and switches to simulate network setups and explore VLANs, firewalls, and server management.
