@@ -19,9 +19,12 @@ This repository documents my ongoing journey into self-hosting, IT infrastructur
 
 ## Current Setup
 
-| Component     | Description    |
-| ------------- | -------------- |
-| Host Hardware | Raspberry Pi 5 |
+| Component        | Description         |
+| ---------------- | ------------------- |
+| Host Hardware    | Raspberry Pi 5      |
+| Router           | Sagecom             |
+| Client Device    | MacBook             |
+| Virtual Machines | Windows 11 & Ubuntu |
 
 ---
 
