@@ -23,7 +23,7 @@ This repository documents my ongoing journey into self-hosting, IT infrastructur
 | ---------------- | ------------------- |
 | Host Hardware    | Raspberry Pi 5      |
 | Router           | Sagecom             |
-| Client Device    | MacBook             |
+| Client Device    | MacBook Air M1      |
 | Virtual Machines | Windows 11 & Ubuntu |
 
 ---
