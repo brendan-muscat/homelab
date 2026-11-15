@@ -3,7 +3,7 @@
 **Description:**  
 Steps for connecting a Raspberry Pi to a home router and assigning a static IP via DHCP reservation. Covers verifying connectivity and resolving common issues.
 
-![cisco-packet-tracker](./images/cisco-packet-tracer.png)
+![cisco-packet-tracker](../images/cisco-packet-tracer.png)
 ---
 
 ## Setup
