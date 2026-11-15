@@ -6,17 +6,6 @@ This repository documents my ongoing journey into self-hosting, IT infrastructur
 
 ---
 
-## Overview
-
-**Primary Goals:**
-
-- Learn hands-on networking and server management
-- Self-host useful services for privacy, convenience, and experimentation
-- Practice infrastructure automation and scripting
-- Build a personal knowledge base of troubleshooting and setup guides
-
----
-
 ## Current Setup
 
 | Component        | Description         |
@@ -24,27 +13,12 @@ This repository documents my ongoing journey into self-hosting, IT infrastructur
 | Host Hardware    | Raspberry Pi 5      |
 | Router           | Sagecom             |
 | Client Device    | MacBook Air M1      |
-| Virtual Machines | Windows 11 & Ubuntu |
 
 ---
 
 ## Services Running
 
-| Service        | Purpose                     |
-| -------------- | --------------------------- |
-| Portainer      | Docker container management |
-| Home Assistant | Home automation hub         |
-
-Additional services will be added as I continue experimenting and expanding the setup.
-
----
-
-## Automation and Tools
-
-- Docker for service deployment
-- Ansible for configuration management (in progress)
-- Bash and PowerShell scripts for routine tasks
-- Git for version control of configurations and documentation
+TBA
 
 ---
 
@@ -57,14 +31,6 @@ This repository includes:
 - Configuration examples
 
 See the `logs/` and `services/` folders for details.
-
----
-
-## Motivation
-
-- Build real-world IT knowledge through hands-on learning
-- Lay a foundation for potential future career paths
-- Enjoy technical problem-solving and experimentation
 
 ---
 
